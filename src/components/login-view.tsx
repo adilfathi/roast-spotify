@@ -11,7 +11,7 @@ export function LoginView({ onLogin }: LoginViewProps) {
       <Card className="w-full max-w-md text-center">
         <CardHeader>
           <CardTitle className="text-3xl font-bold bg-gradient-to-r from-primary to-spotify-green bg-clip-text text-transparent">
-            Spotify Profile Explorer
+            Roast Spotify Profile
           </CardTitle>
           <CardDescription className="text-lg">
             Hubungkan akun Spotify kamu untuk melihat top artists, top songs, dan dapatkan roasting selera musik dari Gemini AI.
